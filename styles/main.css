@@ -1,0 +1,11 @@
+body {
+  font-family: sans-serif;
+  margin-top: -30px;
+  padding: 30px;
+}
+
+h1 {
+  text-align: center;
+  border-bottom: 1px solid blue;
+  padding-bottom: 20px;
+}
