@@ -7,12 +7,16 @@ header {
   padding: 30px;
   text-align: center;
   background-color: #e3b261;
-  color: white;
+  color: #644201;
   font-size: 120%;
 }
 
-header a {
-  color: white;
+a {
+  color: #644201;
+}
+
+a:hover {
+  color: #644101c2
 }
 
 section {
