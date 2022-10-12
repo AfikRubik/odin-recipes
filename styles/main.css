@@ -19,9 +19,13 @@ a:hover {
   color: #644101c2
 }
 
-section {
+article {
   margin: 20px 0;
   padding: 20px;
+}
+
+section {
+  padding: 5px;
 }
 
 h1 {
